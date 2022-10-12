@@ -1,0 +1,25 @@
+{
+  "type": "module",
+  "name": "testing_code",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "watch": "jest --watch capitalize.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/J2ZROMERO/testing_code.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/J2ZROMERO/testing_code/issues"
+  },
+  "homepage": "https://github.com/J2ZROMERO/testing_code#readme",
+  "devDependencies": {
+    "jest": "^29.1.2"
+  }
+}
